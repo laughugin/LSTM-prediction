@@ -13,4 +13,4 @@ Load data from Binance API
 
 ![image](https://github.com/laughugin/LSTM-prediction/assets/90358540/4f4e3a0c-6bc6-483f-880e-01548c095914)
 
-Predict data
+Predict data using LSTM model and linear regression model.
