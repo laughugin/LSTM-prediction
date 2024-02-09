@@ -12,7 +12,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_absolute_error
 
 # Load the LSTM model
-model = load_model('D:\AICV\LSTM_model.h5')
+model = load_model('LSTM_model.h5')
 global df  # Declare df as a global variable
 
 def load_data():
